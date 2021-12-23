@@ -1,0 +1,7 @@
+||SevenKingdoms||
+|WolfRoom|TheRiverland|GiantSpiderRoom|TheStromlands
+||TheWesterLands||
+||TheIronIlands|TheCrownlands|
+|TigerRoom|TheStromlands|TheRiverland|
+||TheReach|BearRoom|
+|TheNorth|StartRoom|TheVale|
