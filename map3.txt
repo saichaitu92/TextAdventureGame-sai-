@@ -1,0 +1,14 @@
+||SevenKingdoms||
+|Snowwalkers||Whitewalkers|
+|Ghosts|Zombies|GiantSpiderRoom|
+|WolfRoom|TheRiverland|GiantSpiderRoom|TheStromlands
+||TheWesterLands|LootRoom|
+||TheIronIlands|TheCrownlands|
+|TigerRoom|TheStromlands|TheRiverland|
+||TheReach|BearRoom|
+|TheNorth||TheVale|
+||EmptyCavePath|GiantSpiderRoom|
+||EmptyCavePath||
+||WolfRoom|OgreRoom|
+||BearRoom|LootRoom|
+|StartRoom|FindDaggerRoom||
