@@ -1,0 +1,7 @@
+|||LeaveCaveRoom|
+||EmptyCavePath|GiantSpiderRoom|
+||EmptyCavePath||
+||WolfRoom||
+||BearRoom|StartRoom|
+||FindDaggerRoom||
+||EmptyCavePath||
